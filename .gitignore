@@ -76,3 +76,9 @@ crashlytics-build.properties
 
 # End of https://www.toptal.com/developers/gitignore/api/unity
 
+TODO/Library/Artifacts/*
+TODO/Library/*
+TODO/Packages/*
+TODO/ProjectSettings/*
+TODO/Logs/*
+EditorUserSettings.asset
