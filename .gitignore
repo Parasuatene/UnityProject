@@ -83,3 +83,5 @@ TODO/ProjectSettings/*
 TODO/Logs/*
 EditorUserSettings.asset
 TODO/Temp/*
+TODO/Assets/Scripts/*.meta
+*.cache
